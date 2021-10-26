@@ -1,0 +1,121 @@
+
+C:\workspace\deep_learning\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+C:\workspace\deep_learning\Kvasir_app\model\kvasir_model_3.h5
+C:\workspace\deep_learning\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+C:\workspace\deep_learning\Kvasir_app\model\kvasir_model_3.h5
+
+System.IO.StreamReader
+System.IO.StreamReader
+C:\workspace\deep_learning\Kvasir_app\deploy.py C:\workspace\deep_learning\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg C:\workspace\deep_learning\Kvasir_app\model\kvasir_model_3.h5
+
+C:\workspace\deep_learning\Kvasir_app\deploy.py C:\workspace\deep_learning\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg C:\workspace\deep_learning\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\esophagitis\00fb1871-41c0-4619-be56-29690d145b1d.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+C:\Users\ifrit\OneDrive\Bureau\DADBB
+E:\workspace\Kvasir_app\train.py E:\workspace\Kvasir_app\kvasir-dataset-v2 E:\workspace\Kvasir_app\model\test.h5
+E:\workspace\Kvasir_app\train.py E:\workspace\Kvasir_app\kvasir-dataset-v2 E:\workspace\Kvasir_app\model\test.h5
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\deploy.py E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\train\dyed-lifted-polyps\1677cdfd-0044-4ee5-8bcd-33a0c7b82ad8.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\train\dyed-lifted-polyps\1677cdfd-0044-4ee5-8bcd-33a0c7b82ad8.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_2.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+ E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+ E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+ E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+ E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\train\dyed-lifted-polyps\1677cdfd-0044-4ee5-8bcd-33a0c7b82ad8.jpg
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_2.h5
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg
+E:\workspace\Kvasir_app\model\kvasir_model_3.h5

@@ -1,0 +1,1 @@
+E:\workspace\Kvasir_app\kvasir-dataset-v2\validation\dyed-lifted-polyps\00cf9508-6ad1-4db9-840a-519c1d515c30.jpg,E:\workspace\Kvasir_app\model\kvasir_model_3.h5
